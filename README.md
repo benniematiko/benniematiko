@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @benniematiko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-benniematiko/benniematiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Bennie Matiko. My interest is in AI and ML.
+Currently, I am learning python and Javascript.
+You can reach me on sidneymatiko@gmail.com, WhatsApp +254 724 695 878
