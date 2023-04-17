@@ -1,3 +1,6 @@
-I'm Bennie Matiko. My interest is in AI and ML.
-Currently, I am learning python and Javascript.
-You can reach me on sidneymatiko@gmail.com, WhatsApp +254 724 695 878
+Hello!
+
+I'm Bennie Matiko. My interest is in AI and ML. Also, I passionately preach about JESUS CHRIST - THE LORD GOD
+ >> sidneymatiko@gmail.com >>
+
+
